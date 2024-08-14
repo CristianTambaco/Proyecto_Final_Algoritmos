@@ -1,0 +1,20 @@
+D. Todas las anteriores
+C. Dirección de bucle invertido
+C. Enrutador
+B. IP
+D. Gateway
+B. TCP
+A. 48 bits
+C. Hub
+B. CSMA/CD
+B. Bluetooth
+C. IP
+C. Denegación de servicio (DoS)
+B. Cable de par trenzado
+B. SLAAC
+C. Malla
+B. UDP
+B. ICMP
+C. 224.0.0.1
+C. Enrutador
+C. Capa de presentación

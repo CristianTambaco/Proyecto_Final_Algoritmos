@@ -1,0 +1,20 @@
+B. CSMA/CD
+B. Dirección multicast
+B. DHCP
+D. Ataque de intermediario (Man-in-the-middle)
+A. DNS
+C. TCP
+B. Spoofing
+B. IP
+A. Dirección unicast global
+A. FTP
+B. ICMP
+C. Gateway
+B. HTTPS
+B. Dirección de enlace local
+B. UDP
+C. Denegación de servicio (DoS)
+C. Proxy
+B. ARP
+C. Cable de fibra óptica
+B. SFTP

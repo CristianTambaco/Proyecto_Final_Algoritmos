@@ -1,0 +1,121 @@
+¿Qué técnica se utiliza en redes para evitar colisiones en la transmisión de datos?  
+A. CSMA/CA  
+B. CSMA/CD
+C. Token Passing  
+D. Polling  
+
+¿Qué tipo de dirección IPv6 se utiliza para enviar un paquete a un grupo específico de dispositivos?  
+A. Dirección unicast  
+B. Dirección multicast
+C. Dirección anycast  
+D. Dirección broadcast  
+
+¿Qué protocolo de la capa de red se utiliza para asignar direcciones IP dinámicamente?  
+A. DNS  
+B. DHCP
+C. ARP  
+D. NTP  
+
+¿Qué tipo de ataque consiste en interceptar la comunicación entre dos partes sin que estas lo sepan?  
+A. Phishing  
+B. Spoofing  
+C. Denegación de servicio (DoS)  
+D. Ataque de intermediario (Man-in-the-middle)
+
+¿Qué protocolo se utiliza para la asignación de direcciones IP estáticas en una red?  
+A. DNS
+B. DHCP  
+C. ARP  
+D. NTP  
+
+¿Qué protocolo de la capa de transporte garantiza la entrega fiable de paquetes?  
+A. UDP  
+B. ICMP  
+C. TCP
+D. IP  
+
+¿Qué tipo de ataque consiste en la suplantación de la identidad de un dispositivo en una red?  
+A. Phishing  
+B. Spoofing
+C. Denegación de servicio (DoS)  
+D. Ataque de intermediario (Man-in-the-middle)  
+
+¿Qué protocolo de la capa de red se utiliza para el enrutamiento de paquetes en Internet?  
+A. TCP  
+B. IP
+C. ICMP
+D. ARP  
+
+¿Qué tipo de dirección IPv6 se utiliza para la comunicación entre diferentes redes?  
+A. Dirección unicast global
+B. Dirección unicast local  
+C. Dirección multicast  
+D. Dirección anycast  
+
+¿Qué protocolo de la capa de aplicación se utiliza para la transferencia de archivos entre dispositivos?  
+A. FTP
+B. HTTP  
+C. Telnet  
+D. SSH  
+
+¿Qué protocolo de la capa de red se utiliza para el control de mensajes de error en una red?  
+A. TCP  
+B. ICMP
+C. IP  
+D. ARP  
+
+¿Qué dispositivo de red permite la conexión entre diferentes tipos de redes?  
+A. Enrutador  
+B. Switch  
+C. Gateway
+D. Hub  
+
+¿Qué protocolo de la capa de aplicación se utiliza para la autenticación y el cifrado de datos en la web?  
+A. HTTP  
+B. HTTPS
+C. FTP  
+D. SSH  
+
+¿Qué tipo de dirección IPv6 se utiliza para la comunicación entre dispositivos en una misma red local?  
+A. Dirección unicast global  
+B. Dirección de enlace local
+C. Dirección multicast  
+D. Dirección anycast  
+
+¿Qué protocolo de la capa de transporte se utiliza para la transmisión de datos en tiempo real?  
+A. TCP  
+B. UDP
+C. ICMP  
+D. ARP  
+ 
+
+¿Qué tipo de ataque consiste en la saturación de un servidor para que no pueda responder a otras solicitudes?  
+A. Phishing  
+B. Spoofing  
+C. Denegación de servicio (DoS)
+D. Ataque de intermediario (Man-in-the-middle)  
+ 
+
+¿Qué dispositivo de red almacena en caché las páginas web visitadas para acelerar el acceso a ellas?  
+A. Enrutador  
+B. Switch  
+C. Proxy
+D. Repetidor  
+
+¿Qué protocolo de la capa de red se utiliza para resolver direcciones IP a direcciones MAC?  
+A. ICMP  
+B. ARP
+C. DHCP  
+D. NTP   
+
+¿Qué tipo de cable tiene una mayor capacidad de transmisión de datos?  
+A. Cable de par trenzado  
+B. Cable coaxial  
+C. Cable de fibra óptica
+D. Cable de alimentación
+
+¿Qué protocolo de la capa de aplicación se utiliza para la transferencia de archivos de manera segura?  
+A. FTP  
+B. SFTP
+C. Telnet  
+D. SSH

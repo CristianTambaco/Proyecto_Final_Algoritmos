@@ -1,0 +1,119 @@
+¿Qué técnica se utiliza para dividir un solo canal de comunicación en múltiples canales?  
+A. Multiplexación por División de Tiempo (TDM)  
+B. Multiplexación por División de Frecuencia (FDM)  
+C. Multiplexación por División de Longitud de Onda (WDM)  
+D. Todas las anteriores
+
+¿Qué tipo de dirección IPv6 es ::1?  
+A. Dirección multicast  
+B. Dirección unicast global  
+C. Dirección de bucle invertido
+D. Dirección anycast  
+
+¿Qué dispositivo es utilizado para conectar múltiples redes y elegir la mejor ruta para enviar paquetes de datos?  
+A. Repetidor  
+B. Hub  
+C. Enrutador
+D. Switch  
+
+¿Qué protocolo de la capa de red es responsable de la fragmentación y reensamblaje de paquetes?  
+A. ICMP  
+B. IP
+C. TCP  
+D. UDP  
+
+¿Qué dispositivo de red puede operar en múltiples capas del modelo OSI?  
+A. Enrutador  
+B. Switch  
+C. Repetidor  
+D. Gateway
+
+¿Qué protocolo de la capa de transporte proporciona una comunicación orientada a la conexión?  
+A. UDP  
+B. TCP
+C. ICMP  
+D. HTTP  
+
+¿Cuál es la longitud de una dirección MAC?  
+A. 48 bits
+B. 32 bits  
+C. 64 bits  
+D. 128 bits  
+
+¿Qué dispositivo se utiliza para conectar dispositivos dentro de una red local y no filtra el tráfico?  
+A. Switch  
+B. Enrutador  
+C. Hub
+D. Gateway  
+
+¿Qué método de acceso al medio es utilizado en redes Ethernet?  
+A. Token Passing  
+B. CSMA/CD
+C. CSMA/CA  
+D. Polling  
+
+¿Qué tecnología de red inalámbrica permite la comunicación entre dispositivos a corta distancia?  
+A. Wi-Fi  
+B. Bluetooth
+C. ZigBee  
+D. NFC  
+
+¿Qué protocolo de la capa de red utiliza direcciones IP para enrutar paquetes?  
+A. ICMP  
+B. ARP  
+C. IP
+D. OSPF  
+
+¿Qué tipo de ataque involucra la sobrecarga de un servidor con solicitudes para que no pueda responder a otras solicitudes legítimas?  
+A. Phishing  
+B. Spoofing  
+C. Denegación de servicio (DoS)
+D. Man-in-the-middle  
+
+¿Qué tipo de cable utiliza conectores RJ45?  
+A. Cable coaxial  
+B. Cable de par trenzado
+C. Cable de fibra óptica  
+D. Cable de alimentación  
+
+¿Qué protocolo se utiliza para asignar direcciones IPv6 de manera automática y sin estado?  
+A. DHCPv6  
+B. SLAAC
+C. NDP  
+D. RARP  
+
+¿Qué topología de red ofrece la mayor redundancia?  
+A. Bus  
+B. Estrella  
+C. Malla
+D. Anillo  
+
+¿Qué protocolo de la capa de transporte es más eficiente para transmisión de datos en tiempo real?  
+A. TCP  
+B. UDP
+C. ICMP  
+D. ARP  
+
+¿Qué protocolo de la capa de red se utiliza para notificar errores en la transmisión de paquetes?  
+A. TCP  
+B. ICMP
+C. IP  
+D. ARP  
+
+¿Qué dirección IP es utilizada para una red multicast?  
+A. 192.168.1.1  
+B. 10.0.0.1  
+C. 224.0.0.1
+D. 127.0.0.1  
+
+¿Qué dispositivo de red filtra el tráfico basado en direcciones IP y es capaz de segmentar redes?  
+A. Hub  
+B. Switch  
+C. Enrutador
+D. Modem  
+
+¿Qué capa del modelo OSI se encarga de cifrar y descifrar los datos?  
+A. Capa de transporte  
+B. Capa de sesión  
+C. Capa de presentación
+D. Capa de red

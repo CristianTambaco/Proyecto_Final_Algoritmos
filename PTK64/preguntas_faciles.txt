@@ -1,0 +1,119 @@
+¿Qué es una red de computadoras?
+A. Conjunto de computadores interconectados.
+B. Sistema operativo avanzado.
+C. Programa de edición de texto.
+D. Dispositivo de almacenamiento masivo.
+
+¿Cuáles son las principales características de las redes de computadoras?
+A. Lenta, costosa, insegura.
+B. Tolerante a fallas, escalable, segura.
+C. Limitada, inflexible, vulnerable.
+D. Rápida, barata, inestable.
+
+¿Cómo se clasifican las redes según la tecnología de transmisión?
+A. Redes locales y globales.
+B. Redes de difusión y punto a punto.
+C. Redes privadas y públicas.
+D. Redes inalámbricas y cableadas.
+
+¿Qué diferencias existen entre las redes de difusión y las redes punto a punto?
+A. Difusión: canal compartido; Punto a punto: múltiples conexiones.
+B. Difusión: un solo nodo; Punto a punto: varios nodos.
+C. Difusión: rápida; Punto a punto: lenta.
+D. Difusión: insegura; Punto a punto: segura.
+
+¿Qué tipos de transmisión de información existen en las redes de difusión?
+A. Unicast, multicast, broadcast.
+B. Simplex, duplex, triplex.
+C. Asincrónica, sincrónica, cronológica.
+D. Analógica, digital, híbrida.
+
+¿Qué características tienen las redes punto a punto en comparación con las redes de difusión?
+A. Múltiples rutas, enrutamiento necesario.
+B. Un solo canal, sin enrutamiento.
+C. Alta velocidad, baja latencia.
+D. Comunicación directa, sin intermediarios.
+
+¿Cómo se clasifican las redes según su cobertura o alcance?
+A. PAN, LAN, MAN, WAN, Internet.
+B. LAN, PAN, WAN, NAN, FAN.
+C. MAN, WAN, CAN, RAN, SAN.
+D. NAN, PAN, MAN, LAN, WAN.
+
+¿Qué es una Personal Area Network (PAN)?
+A. Red con alcance típico menor de 10 metros.
+B. Red que cubre una ciudad.
+C. Red que conecta varios países.
+D. Red dentro de una oficina.
+
+¿Cuáles son las características de una Local Area Network (LAN)?
+A. Alcance de 10 metros a 1 kilómetro, conecta de 10 a 1000 nodos.
+B. Alcance de 1 a 10 kilómetros, conecta de 1000 a 10,000 nodos.
+C. Alcance de 100 metros a 10 kilómetros, conecta de 100 a 1000 nodos.
+D. Alcance de 1 metro a 100 metros, conecta de 1 a 10 nodos.
+
+¿Qué define a una Metropolitan Area Network (MAN)?
+A. Alcance de 1 a 10 kilómetros, conecta de 100 a 1000 nodos.
+B. Alcance de 10 a 100 kilómetros, conecta de 1000 a 10,000 nodos.
+C. Alcance de 10 metros a 1 kilómetro, conecta de 10 a 100 nodos.
+D. Alcance de 1 a 10 metros, conecta de 1 a 10 nodos.
+
+¿Qué es una Wide Area Network (WAN)?
+A. Red con alcance de 10 a 10,000 kilómetros.
+B. Red con alcance de 1 a 10 kilómetros.
+C. Red con alcance de 100 metros a 1 kilómetro.
+D. Red con alcance de 1 a 100 metros.
+
+¿Cómo se estructura Internet?
+A. Colección de redes públicas y privadas interconectadas.
+B. Red única y centralizada.
+C. Red privada y segura.
+D. Conjunto de servidores independientes.
+
+¿Qué dispositivos se consideran como componentes de red?
+A. Dispositivos finales e infraestructura.
+B. Dispositivos móviles y fijos.
+C. Computadoras y tabletas.
+D. Impresoras y escáneres.
+
+¿Qué tipos de medios de red existen?
+A. Guiados y no guiados.
+B. Rápidos y lentos.
+C. Modernos y antiguos.
+D. Con cable y sin cable.
+
+¿Qué es una red inalámbrica (Wireless Network)?
+A. Comunicación sin cables físicos.
+B. Red con cables físicos.
+C. Red que utiliza fibra óptica.
+D. Red de alta velocidad.
+
+¿Cómo se clasifica el tráfico en una red?
+A. Según la calidad de servicio requerida.
+B. Según el tipo de dispositivo.
+C. Según la velocidad de transmisión.
+D. Según la cantidad de datos.
+
+¿Qué mecanismos se utilizan para gestionar el tráfico en una red conmutada por paquetes?
+A. Clasificación y priorización de tráfico.
+B. Ampliación y reducción de tráfico.
+C. Separación y unión de tráfico.
+D. Distribución y recolección de tráfico.
+
+¿Qué es una Intranet?
+A. Red privada dentro de una organización.
+B. Extensión de la red pública.
+C. Red que conecta diferentes organizaciones.
+D. Red abierta al público en general.
+
+¿Qué es una Extranet?
+A. Extensión de la Intranet para usuarios externos.
+B. Red privada y segura.
+C. Red pública con acceso restringido.
+D. Red interna de una organización.
+
+¿Qué es una red convergente?
+A. Combina voz, video y datos en una plataforma.
+B. Red que utiliza solo datos.
+C. Red que combina solo voz y video.
+D. Red que separa voz, video y datos.

@@ -1,0 +1,20 @@
+A. Conjunto de computadores interconectados.
+B. Tolerante a fallas, escalable, segura.
+B. Redes de difusión y punto a punto.
+A. Difusión: canal compartido; Punto a punto: múltiples conexiones.
+A. Unicast, multicast, broadcast.
+A. Múltiples rutas, enrutamiento necesario.
+A. PAN, LAN, MAN, WAN, Internet.
+A. Red con alcance típico menor de 10 metros.
+A. Alcance de 10 metros a 1 kilómetro, conecta de 10 a 1000 nodos.
+A. Alcance de 1 a 10 kilómetros, conecta de 100 a 1000 nodos.
+A. Red con alcance de 10 a 10,000 kilómetros.
+A. Colección de redes públicas y privadas interconectadas.
+A. Dispositivos finales e infraestructura.
+A. Guiados y no guiados.
+A. Comunicación sin cables físicos.
+A. Según la calidad de servicio requerida.
+A. Clasificación y priorización de tráfico.
+A. Red privada dentro de una organización.
+A. Extensión de la Intranet para usuarios externos.
+A. Combina voz, video y datos en una plataforma.
